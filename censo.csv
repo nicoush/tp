@@ -1,4 +1,3 @@
-caso,facultad,tipo_inv,disc_proy,obj_socio,ent_financ,otra_ent,cant_inv,cant_bec,cant_per,cant_est,gast_corr,gast_corr_o,gast_corr_b,gast_inm,gast_equip,num_pub,rev_pub_2,rev_pub_3,num_pub2,num_cong,num_pat,num_inf,num_der,num_asist,num_des,num_otros_des
 1,JURSOC,básica,CsSoc,ConocGral,UNLP,NA,2,1,2,0,21000,3,20001-30000,0,0,2,NA,NA,0,2,0,0,1,0,0,0
 2,JURSOC,básica,CsSoc,ConocGral,UNLP,NA,2,1,2,0,21000,3,20001-30000,0,0,2,NA,NA,0,2,0,0,1,0,0,0
 3,JURSOC,básica,CsSoc,ConocGral,UNLP,NA,1,1,0,1,11338,2,10001-20000,0,0,2,1,Español,0,1,0,2,0,0,0,0
