@@ -16,12 +16,3 @@ caso,facultad,tipo_inv,disc_proy,obj_socio,ent_financ,otra_ent,cant_inv,cant_bec
 15,JURSOC,aplicada,CsSoc,Social,UNLP,NA,4,0,0,0,0,1,0-10000,0,0,11,1,Español,2,4,0,0,0,0,0,0
 16,FCM,aplicada,CsMed,Salud,UNLP,NA,7,0,0,0,13000,2,10001-20000,0,0,7,1,Español,0,0,0,0,0,0,0,0
 17,FCAG,básica,EXACyNAT,Tierra,ANPCyT,NA,4,6,0,0,30000,3,20001-30000,0,30000,11,2,Inglés,0,20,0,0,0,0,0,0
-18,FCM,básica,CsMed,Salud,ANPCyT,NA,5,1,2,0,39610.96,4,30001-40000,0,0,0,NA,NA,0,2,0,1,0,0,0,0
-19,FCAG,básica,EXACyNAT,ConocGral,CONICET,NA,2,2,0,0,5711,1,0-10000,0,0,4,2,Inglés,2,2,0,0,0,0,0,0
-20,FCAG,aplicada,EXACyNAT,Tierra,UNLP,NA,3,5,0,0,4000,1,0-10000,0,4000,6,2,Inglés,0,5,0,0,0,0,1,0
-21,FCAG,aplicada,EXACyNAT,Tierra,CONICET,NA,3,6,0,0,10000,1,0-10000,0,10000,6,2,Inglés,0,5,0,0,0,0,1,0
-22,JURSOC,básica,Otro,Social,UNLP,NA,7,0,0,0,800,1,0-10000,0,0,2,1,Español,0,0,0,0,0,0,0,0
-23,JURSOC,básica,Otro,Social,UNLP,NA,7,0,0,0,800,1,0-10000,0,0,2,1,Español,0,0,0,0,0,0,0,0
-24,FAU,aplicada,Otro,OtraCivil,UNLP,NA,13,0,0,0,1500,1,0-10000,0,0,5,NA,NA,0,2,0,0,0,0,0,0
-25,FTS,básica,CsSoc,Social,UNLP,NA,6,2,0,4,10000,1,0-10000,0,0,10,1,Español,1,6,0,1,0,0,0,0
-26,FaHCE,aplicada,Human,ConocGral,UNLP,NA,4,0,0,2,14161,2,10001-20000,0,0,1,NA,NA,2,1,0,0,0,0,0,0
